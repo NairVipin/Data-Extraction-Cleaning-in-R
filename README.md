@@ -1,5 +1,5 @@
-# *Extraction and Cleaning of accelerometer data in R*
-Extract and clean accelerometer data from an experiment with Samsung Galaxy S Smartphones 
+# *Extraction and Cleaning of Smartphone Accelerometer data in R*
+Extract and clean accelerometer data from an experiment with Samsung Galaxy S Smartphones to detect Human Activity Recognition
 
 ### Contents
 
