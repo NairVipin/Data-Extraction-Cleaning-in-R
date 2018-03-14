@@ -1,4 +1,4 @@
-# *Extraction and Cleaning accelerometer Data in R*  code book
+# *Extraction and Cleaning Smartphone Accelerometer Data in R*  code book
 
 ### Analysis process
 
