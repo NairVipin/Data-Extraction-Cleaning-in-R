@@ -12,7 +12,7 @@ The analysis script, `run_analysis.R` reads in the processed experiment data and
  - The data is then grouped by subject and activity, and the mean is calculated for every measurement column.
  - Finally, the summary dataset is written to a file, `run_data_summary.txt`.
 
-Each line in `run_analysis.R` is commented. Reference the file for more information on this process.
+Each line in `run_analysis.R` is commented. Reference the files for more information on this process.
 
 ### Columns in output file
 
