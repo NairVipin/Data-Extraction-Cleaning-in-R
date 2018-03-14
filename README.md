@@ -1,8 +1,6 @@
 # *Data Extraction and Cleaning in R*
 Extract and clean accelerometer data from an experiment with Samsung Galaxy S Smartphones 
 
-An analysis of accelerometer data generated from an experiment with Samsung Galaxy S smartphones.
-
 ### Contents
 
   - `CodeBook.md` - Describes the experiment data and the steps taken to summarize the data.
