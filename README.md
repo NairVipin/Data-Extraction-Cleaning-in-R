@@ -1,4 +1,4 @@
-# *Data Extraction and Cleaning in R*
+# *Extraction and Cleaning of accelerometer data in R*
 Extract and clean accelerometer data from an experiment with Samsung Galaxy S Smartphones 
 
 ### Contents
